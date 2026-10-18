@@ -1,0 +1,11 @@
+product_key,product_name,category,unit_price
+PR001,Espresso,Hot Drinks,35.00
+PR002,Latte,Hot Drinks,55.00
+PR003,Cappuccino,Hot Drinks,55.00
+PR004,Americano,Hot Drinks,45.00
+PR005,Iced Latte,Cold Drinks,60.00
+PR006,Cold Brew,Cold Drinks,65.00
+PR007,Croissant,Pastry,40.00
+PR008,Muffin,Pastry,38.00
+PR009,Cheesecake Slice,Dessert,70.00
+PR010,Cookie,Pastry,25.00
