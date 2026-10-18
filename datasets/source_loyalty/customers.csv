@@ -1,0 +1,521 @@
+customer_loyalty_id,full_name,email,city,join_date,tier
+CU0001,Allison Hill,rhodespatricia@example.org,Istanbul,2024-06-11,Gold
+CU0002,Amanda Davis,hoffmanjennifer@example.net,Izmir,2024-06-21,Silver
+CU0003,Connie Lawrence,blakeerik@example.com,Bursa,2026-02-26,
+CU0004,CHRISTOPHER BERNARD,jamesmichael@example.com,Ankara,2024-10-10,
+CU0005,Renee Blair,smiller@example.net,Ankara,2025-05-11,
+CU0006,SHANNON RAY,stanleykendra@example.org,Izmir,2025-11-06,Gold
+CU0007,Sharon James,francisco53@example.net,Istanbul,2025-02-11,Gold
+CU0008,Timothy Wong,amandasanchez@example.com,Istanbul,2025-07-27,Bronze
+CU0009,William Bowman,megan03@example.org,Istanbul,2025-06-02,Silver
+CU0010,Jennifer Jones,jason76@example.net,Istanbul,2026-06-16,Bronze
+CU0011,Derek Wright,julie69@example.com,Bursa,2025-06-06,Gold
+CU0012,Zachary Taylor,callahaneric@example.org,Istanbul,2025-03-26,Bronze
+CU0013,Jennifer Brown,jrice@example.org,Istanbul,2024-11-27,Gold
+CU0014,  Ashley Dyer  ,daniel62@example.com,Izmir,2025-12-25,Silver
+CU0015,NATHAN CORTEZ,williamrodriguez@example.net,Antalya,2026-08-18,Gold
+CU0016,MARK LYNCH,amberosborne@example.net,Izmir,2024-03-28,Silver
+CU0017,Linda Burns,natasha43@example.org,Ankara,2024-02-14,
+CU0018,Keith Miller,spenceamanda@example.org,Ankara,2025-12-05,Bronze
+CU0019,  John Pierce  ,ibrandt@example.net,Antalya,2024-07-26,Gold
+CU0020,Michelle Ross,samuel87@example.org,Bursa,2025-10-02,Gold
+CU0021,AUSTIN SMITH,adrianzimmerman@example.org,Antalya,2025-05-29,Bronze
+CU0022,Taylor Heath,joshuawashington@example.net,Istanbul,2024-01-01,
+CU0023,Timothy Duncan,maguirre@example.org,Ankara,2025-03-04,
+CU0024,Jeffrey Henderson,nuneztracey@example.org,Antalya,2025-02-26,
+CU0025,Nicholas Mcbride,jameswest@example.com,Istanbul,2024-02-11,Bronze
+CU0026,Joel Baxter,williamsyvette@example.org,Bursa,2024-01-06,Gold
+CU0027,Tammy Allison,zolson@example.org,Ankara,2024-04-12,Silver
+CU0028,Aaron Myers,,Izmir,2026-06-30,Bronze
+CU0029,Dominique Horton,smoore@example.org,Ankara,2025-12-03,Gold
+CU0030,Lauren Daniels,williamsthomas@example.net,Bursa,2025-12-22,Gold
+CU0031,Tyler Miller,leonardjoe@example.org,Izmir,2024-05-02,Silver
+CU0032,Laura Riley,barnesbrandy@example.net,Antalya,2023-11-29,Silver
+CU0033,Dean Santiago,randy47@example.com,Istanbul,2024-09-16,
+CU0034,Taylor Smith,jonesjason@example.com,Istanbul,2025-08-09,Bronze
+CU0035,Gregory Jones,eric84@example.net,Bursa,2024-07-04,
+CU0036,Dr. Kendra Contreras,mcmillandennis@example.org,Ankara,2025-05-30,Bronze
+CU0037,Natalie Moore,jenniferharris@example.net,Bursa,2024-08-13,Silver
+CU0038,Kathy King,davisrodney@example.com,Ankara,2026-06-11,Gold
+CU0039,Gavin Anderson,joycearnold@example.com,Istanbul,2026-08-26,Silver
+CU0040,Ashley Landry,amydavenport@example.net,Izmir,2025-10-22,
+CU0041,Jessica Williams,nolanjason@example.org,Bursa,2024-11-09,Silver
+CU0042,  Heather Castro  ,sarayoung@example.org,Bursa,2026-05-06,Silver
+CU0043,Rita Keith,kimberly63@example.com,Ankara,2023-11-13,Silver
+CU0044,Michael Reyes,dwalker@example.com,Istanbul,2023-11-28,Bronze
+CU0045,Robert Perez,raymondramirez@example.org,Ankara,2023-11-12,
+CU0046,Diana May,sheila14@example.org,Antalya,2024-12-16,Bronze
+CU0047,VICTORIA JOHNSON,jessica56@example.net,Ankara,2025-07-14,Bronze
+CU0048,MRS. STEPHANIE LEE,zsmith@example.net,Izmir,2023-12-04,Silver
+CU0049,Teresa Mclaughlin,qjones@example.com,Istanbul,2024-05-14,Gold
+CU0050,Mary Martinez,elizabeth56@example.net,Bursa,2026-06-02,
+CU0051,CAMERON FISHER,christinaturner@example.net,Bursa,2026-07-15,Bronze
+CU0052,Elizabeth Clark,steven73@example.net,Bursa,2026-01-31,Gold
+CU0053,Steven Flynn,campbellelizabeth@example.net,Bursa,2024-04-15,
+CU0054,  Robert Potter  ,lindsayhernandez@example.org,Bursa,2025-10-03,Silver
+CU0055,John Atkinson,,Antalya,2024-01-03,Gold
+CU0056,Mark Lee,jross@example.net,Ankara,2025-10-28,
+CU0057,Stephanie Dalton,zrobinson@example.net,Antalya,2026-05-18,Silver
+CU0058,Amber Wright,danderson@example.net,Antalya,2026-04-08,Bronze
+CU0059,Kristin Stewart,usalazar@example.net,Istanbul,2025-12-30,
+CU0060,TERRY GRIFFIN,wcole@example.org,Bursa,2024-04-04,Silver
+CU0061,Destiny Strickland,joshuajones@example.com,Antalya,2025-03-17,Bronze
+CU0062,GEORGE OROZCO,jessebenson@example.net,Istanbul,2024-01-11,Bronze
+CU0063,JASON RIVERA,clarkrobert@example.net,Ankara,2025-02-25,
+CU0064,ALICIA GILMORE,wsmith@example.com,Ankara,2025-06-22,
+CU0065,Sarah Ashley,tracynelson@example.com,Izmir,2025-01-06,
+CU0066,George Shelton,marycalhoun@example.net,Ankara,2024-12-21,Silver
+CU0067,Susan Vargas,dayderek@example.com,Izmir,2025-09-23,
+CU0068,David Murphy,kathleen64@example.com,Antalya,2025-02-13,
+CU0069,  Bradley Smith  ,jeffrey10@example.org,Ankara,2025-05-14,
+CU0070,Christina Smith,thomaswilson@example.org,Ankara,2024-03-28,Silver
+CU0071,DAVID WOOD,stricklandfrank@example.com,Bursa,2025-07-24,Silver
+CU0072,Alexander Collins,tsanders@example.org,Antalya,2025-10-08,Silver
+CU0073,Michael Burton,melissa91@example.net,Antalya,2024-02-03,Silver
+CU0074,Hannah Patterson,alexander67@example.org,Istanbul,2024-11-15,Bronze
+CU0075,Jack Snow,ryangross@example.net,Ankara,2025-02-18,Bronze
+CU0076,Robert Medina,lpetersen@example.com,Bursa,2025-03-15,Bronze
+CU0077,David Michael,dsanchez@example.net,Izmir,2024-08-10,Gold
+CU0078,Jamie Johnson,tonykelly@example.com,Bursa,2026-04-11,Silver
+CU0079,Spencer Haynes,blackjames@example.org,Ankara,2024-08-07,Silver
+CU0080,Katherine Chang,bwest@example.org,Ankara,2025-10-22,
+CU0081,Jared Sanchez,thomas85@example.com,Istanbul,2025-09-24,Bronze
+CU0082,  Krista Bell MD  ,,Istanbul,2024-09-08,Silver
+CU0083,NATHAN STEWART,jamesrodgers@example.com,Istanbul,2025-12-17,Bronze
+CU0084,Vanessa Warren,wallkenneth@example.com,Istanbul,2024-08-14,Silver
+CU0085,Adrian Ferguson,tranheidi@example.org,Izmir,2024-08-05,Bronze
+CU0086,Nicole Garcia,taylor75@example.org,Ankara,2023-10-31,Bronze
+CU0087,Dawn Hensley,moralescharles@example.net,Ankara,2024-02-16,
+CU0088,  Brittany Shepherd  ,mcknightdavid@example.com,Bursa,2026-07-24,Silver
+CU0089,Rachel Perez,tkerr@example.net,Istanbul,2025-04-26,Silver
+CU0090,Elizabeth Oliver DDS,colleenbaker@example.org,Istanbul,2025-12-14,Gold
+CU0091,Christopher Jones,enorris@example.com,Bursa,2023-10-20,Gold
+CU0092,Dwayne Campbell,mcdanielsandra@example.net,Ankara,2026-04-20,Bronze
+CU0093,Regina Gonzalez,deborahkerr@example.org,Izmir,2024-02-17,Silver
+CU0094,Christopher Parker,,Antalya,2025-12-23,
+CU0095,Donna Martinez,gbender@example.net,Antalya,2025-10-20,Gold
+CU0096,  Bobby Williams MD  ,anthony39@example.net,Istanbul,2024-09-25,Gold
+CU0097,Yvonne Chambers,hinesgregory@example.net,Bursa,2024-07-31,Gold
+CU0098,Sydney White,ecosta@example.com,Bursa,2025-07-02,
+CU0099,Frank Garcia,ssteele@example.net,Bursa,2024-04-06,
+CU0100,Robin Pierce,johnny16@example.net,Ankara,2025-02-13,
+CU0101,April Booth,lopezmichael@example.com,Izmir,2025-02-21,Bronze
+CU0102,OLIVIA HARRIS,samuel71@example.org,Ankara,2025-05-24,
+CU0103,Lisa Allen,tranchristopher@example.org,Bursa,2024-04-03,
+CU0104,Bruce Collier,william46@example.com,Istanbul,2025-03-31,Silver
+CU0105,Mrs. Kristen Reyes,michellehill@example.com,Izmir,2026-06-25,Silver
+CU0106,Richard Adams,mary97@example.org,Antalya,2023-10-20,Bronze
+CU0107,John Cook,ugibson@example.org,Izmir,2026-01-07,Bronze
+CU0108,Mrs. Janet Chase,julie66@example.net,Bursa,2024-12-28,Silver
+CU0109,Marissa Hernandez,waynelawrence@example.org,Bursa,2026-08-10,Gold
+CU0110,JESSICA FOX,robertpena@example.org,Antalya,2025-02-15,Gold
+CU0111,Richard Baker,vsantos@example.net,Istanbul,2025-08-11,Gold
+CU0112,Jamie Stewart,cbrennan@example.net,Bursa,2025-11-21,Gold
+CU0113,Mark Mccall,hamiltoncorey@example.net,Ankara,2026-09-14,Gold
+CU0114,Ashlee Jackson,williamslaura@example.com,Antalya,2024-08-31,
+CU0115,JEFFREY SANCHEZ,georgemiller@example.com,Izmir,2024-12-29,
+CU0116,CYNTHIA DURHAM,dlittle@example.com,Izmir,2024-03-18,Bronze
+CU0117,STEPHANIE MARSHALL,charleslandry@example.net,Izmir,2024-08-19,Gold
+CU0118,Victor Vaughn,james67@example.org,Bursa,2025-02-15,
+CU0119,Kenneth Andrews,,Ankara,2026-09-09,Bronze
+CU0120,William Barrett,,Istanbul,2024-08-05,Silver
+CU0121,  Melissa Garner  ,swall@example.org,Bursa,2023-12-09,Bronze
+CU0122,Heather Fields,courtneyberger@example.net,Istanbul,2025-08-09,
+CU0123,Richard Johnson,christopherphillips@example.net,Ankara,2024-11-09,Silver
+CU0124,Curtis Buchanan,alyssa42@example.com,Istanbul,2026-05-08,Bronze
+CU0125,Terry Coffey,,Bursa,2024-08-27,Silver
+CU0126,REGINA MCDONALD,michelleramsey@example.com,Izmir,2024-01-06,Silver
+CU0127,Regina Diaz,bakerdavid@example.com,Izmir,2026-02-06,
+CU0128,Megan Richards,daniel37@example.org,Izmir,2026-03-11,Bronze
+CU0129,Terri Murphy,reidsteven@example.net,Istanbul,2025-07-28,Gold
+CU0130,Jason Taylor,wendy11@example.org,Izmir,2026-07-21,
+CU0131,Brandy Chavez,umatthews@example.org,Bursa,2025-10-01,
+CU0132,Mary Bass,antonio53@example.com,Izmir,2025-08-03,Silver
+CU0133,David Cox,amy50@example.com,Bursa,2026-08-27,
+CU0134,Walter Rush,batesdarlene@example.net,Izmir,2026-03-13,Silver
+CU0135,Amber Cook,caseyhubbard@example.org,Izmir,2026-09-05,
+CU0136,Robin Hall,ramireztracey@example.org,Ankara,2026-01-19,
+CU0137,Rebecca Rodriguez,alexistyler@example.org,Ankara,2026-04-27,Silver
+CU0138,ALEXIS BAKER,vfox@example.org,Bursa,2024-02-29,
+CU0139,Richard Palmer,soniawilliams@example.net,Antalya,2024-02-11,Gold
+CU0140,Judith Maynard,bboone@example.net,Antalya,2023-12-21,Silver
+CU0141,Micheal Wallace,charlene12@example.com,Bursa,2026-06-01,Gold
+CU0142,  Lauren Joseph  ,,Izmir,2024-11-26,Gold
+CU0143,Elizabeth Wagner,farrelldebra@example.net,Antalya,2025-01-18,Silver
+CU0144,Cindy Hayes,maria66@example.net,Istanbul,2024-06-17,Bronze
+CU0145,Jeffery Ortega,gloriawells@example.org,Antalya,2024-11-19,Silver
+CU0146,Anna Davis,angelawillis@example.net,Bursa,2025-12-12,Silver
+CU0147,Meagan Jenkins,uparrish@example.org,Izmir,2026-05-05,Bronze
+CU0148,Lindsay Bell,ericolson@example.org,Ankara,2025-06-24,Gold
+CU0149,Justin Wilson,lindsaybruce@example.net,Ankara,2024-08-09,Bronze
+CU0150,Maria Johnson,anthony44@example.com,Antalya,2026-07-03,Bronze
+CU0151,Christopher Thomas,thomascynthia@example.org,Ankara,2025-09-17,
+CU0152,Joseph Bennett,mitchellgriffith@example.net,Ankara,2025-02-12,Silver
+CU0153,Sophia Moore,craigjoseph@example.net,Izmir,2025-12-29,Silver
+CU0154,LAWRENCE PERRY,reeddaniel@example.net,Istanbul,2024-06-03,Bronze
+CU0155,Katelyn Estrada,djoyce@example.org,Izmir,2023-12-05,Silver
+CU0156,Tony Saunders,mark07@example.net,Izmir,2026-01-08,Silver
+CU0157,Carl Patel,charles06@example.org,Ankara,2024-06-19,Gold
+CU0158,  Blake Edwards  ,amckinney@example.com,Ankara,2025-01-17,Silver
+CU0159,Alex Nguyen,xcollier@example.org,Izmir,2026-02-17,Bronze
+CU0160,Brian Graham,fosterkyle@example.com,Antalya,2024-12-17,Bronze
+CU0161,Richard Jones,rebeccabailey@example.net,Izmir,2025-08-22,Gold
+CU0162,Maria Hernandez,james92@example.net,Bursa,2024-02-04,Bronze
+CU0163,Trevor Burton,kmaldonado@example.net,Antalya,2025-02-23,Bronze
+CU0164,Lori Lin,scottharrison@example.net,Bursa,2025-08-15,Bronze
+CU0165,Donald Brown,steven00@example.com,Izmir,2025-04-10,
+CU0166,Angela Lin,jford@example.net,Ankara,2026-04-15,
+CU0167,Joanna Pacheco,cassidy82@example.org,Istanbul,2025-09-11,Gold
+CU0168,Robert Monroe,wagnergerald@example.org,Bursa,2026-08-29,
+CU0169,Wendy Warren,nathan46@example.com,Bursa,2025-07-28,Silver
+CU0170,MEGHAN WILLIAMS,cameron18@example.net,Ankara,2025-08-19,Bronze
+CU0171,David York,mathewaguilar@example.org,Izmir,2026-08-10,Bronze
+CU0172,Emily Douglas,brookehurley@example.com,Izmir,2025-09-22,Bronze
+CU0173,Maria Murphy,lucasrodney@example.com,Antalya,2024-03-02,Silver
+CU0174,Eric Bean,ilee@example.org,Bursa,2024-10-15,
+CU0175,Ryan Garcia,stanleynancy@example.net,Ankara,2026-01-15,Gold
+CU0176,James Martin,jenniferwilliams@example.com,Antalya,2026-03-21,Bronze
+CU0177,Cynthia Wallace,pyoung@example.com,Izmir,2024-08-16,Silver
+CU0178,RACHEL MCKEE,smurray@example.com,Ankara,2024-05-11,
+CU0179,  Jennifer Martin  ,moniquewilliams@example.com,Antalya,2024-05-17,Silver
+CU0180,Kristen Garcia,mitchellkathryn@example.com,Ankara,2026-04-05,
+CU0181,Jose Guerra,lisawilkerson@example.org,Ankara,2024-01-23,Bronze
+CU0182,James Brooks,brooksanthony@example.org,Izmir,2024-12-02,Gold
+CU0183,  Marie Moody  ,samantha72@example.net,Ankara,2024-03-12,Gold
+CU0184,Luis Bullock,marydunn@example.net,Istanbul,2023-11-07,Bronze
+CU0185,Jenny Parsons,williamsrobert@example.net,Antalya,2024-06-27,
+CU0186,Brian Stein,chenbailey@example.net,Istanbul,2025-07-14,
+CU0187,Jeffrey Mendez,qlopez@example.org,Bursa,2024-06-30,Silver
+CU0188,Heather Ashley,myerstheodore@example.net,Istanbul,2025-05-19,
+CU0189,James Burgess,cooperjessica@example.net,Bursa,2024-11-01,Silver
+CU0190,  Kevin Sherman  ,amy27@example.net,Antalya,2024-03-08,
+CU0191,Clarence Taylor,mjohnson@example.org,Antalya,2025-11-18,Silver
+CU0192,Stacey Stewart,ihays@example.com,Bursa,2024-09-12,Silver
+CU0193,Paul Lee,glennmartin@example.org,Istanbul,2024-11-01,Gold
+CU0194,Jessica Ross,lmorgan@example.com,Istanbul,2025-01-28,
+CU0195,Holly Salinas,acostachristian@example.net,Antalya,2024-07-28,Bronze
+CU0196,Catherine Carter MD,kirk96@example.org,Izmir,2024-10-01,Bronze
+CU0197,HEATHER WILLIAMS,christina64@example.net,Istanbul,2026-05-01,Silver
+CU0198,Theresa Jones,william20@example.org,Ankara,2025-08-26,
+CU0199,  Megan Kim  ,kimberlydiaz@example.com,Izmir,2024-02-29,Gold
+CU0200,Amanda Hernandez,nathan19@example.org,Bursa,2025-02-08,
+CU0201,  Jennifer Banks  ,johnsonjacob@example.net,Istanbul,2024-07-09,Gold
+CU0202,JUSTIN GREEN,nlewis@example.com,Ankara,2024-07-21,Gold
+CU0203,Yvonne Gonzalez,hayesrachel@example.com,Izmir,2024-03-10,Bronze
+CU0204,Rita Ponce DVM,piercekelly@example.com,Bursa,2025-09-28,Bronze
+CU0205,MICHELLE HO,william13@example.org,Antalya,2025-08-27,Silver
+CU0206,  Johnny Ward  ,jlara@example.org,Izmir,2025-06-18,Bronze
+CU0207,Angelica Parker,xfox@example.com,Antalya,2026-09-16,Gold
+CU0208,  Angela Compton  ,howens@example.com,Antalya,2025-09-01,Silver
+CU0209,Ronald Arnold,,Antalya,2025-07-04,Silver
+CU0210,  Betty Shaw  ,holmeskevin@example.org,Bursa,2026-04-29,Bronze
+CU0211,Michael Reed,meghan43@example.net,Istanbul,2026-07-16,Silver
+CU0212,Denise Weber,shawgary@example.net,Bursa,2025-08-02,Silver
+CU0213,Matthew Le,bryananthony@example.org,Antalya,2025-07-23,Gold
+CU0214,Patricia Baker,bmontgomery@example.com,Istanbul,2024-05-29,Bronze
+CU0215,  Kimberly May  ,lindacohen@example.com,Istanbul,2024-09-03,Bronze
+CU0216,Michael Moore,mharris@example.org,Bursa,2025-01-02,Silver
+CU0217,Nathan Gross,xanderson@example.net,Antalya,2026-04-21,Gold
+CU0218,Emma Owens,,Izmir,2024-07-28,Bronze
+CU0219,Brent Roberts,kwright@example.com,Istanbul,2024-11-30,Gold
+CU0220,Michelle Lee,tjimenez@example.com,Izmir,2024-04-04,
+CU0221,Tony Wagner,brandywilliams@example.com,Izmir,2026-08-12,
+CU0222,Stephen Pena MD,jordannicole@example.net,Bursa,2025-05-11,Bronze
+CU0223,Jamie Williams,michaelroberts@example.com,Istanbul,2023-12-11,
+CU0224,Pamela Ramirez,andersoncolin@example.com,Izmir,2026-09-05,
+CU0225,Gina Mcmillan,carriemorales@example.org,Bursa,2025-12-30,
+CU0226,Chad Cook,ghernandez@example.org,Bursa,2025-03-05,Silver
+CU0227,Louis Martin,brittney88@example.net,Antalya,2026-09-07,
+CU0228,Justin Wells Jr.,,Ankara,2024-10-04,Silver
+CU0229,Jason Parker,carlsonjoseph@example.net,Izmir,2026-06-01,
+CU0230,Paula Lane,ojackson@example.net,Bursa,2025-11-24,Silver
+CU0231,Sarah Hernandez,armstrongjackie@example.org,Izmir,2025-10-11,Bronze
+CU0232,ERIK HERNANDEZ,nshaw@example.com,Istanbul,2025-10-22,Gold
+CU0233,Nancy Brown,annbolton@example.com,Izmir,2024-03-13,Silver
+CU0234,Emily Thompson,amy49@example.com,Bursa,2026-06-15,Silver
+CU0235,David Grant,kellie37@example.com,Izmir,2024-06-13,
+CU0236,Justin Michael,david86@example.com,Antalya,2025-11-24,
+CU0237,Tina Ballard,stephanie15@example.com,Ankara,2024-08-22,Bronze
+CU0238,NICOLE LEWIS,sarah42@example.org,Bursa,2026-03-17,Silver
+CU0239,Laurie Sanchez,danawilliams@example.com,Izmir,2025-09-30,Silver
+CU0240,John Maldonado,richarddonovan@example.com,Antalya,2024-03-12,Bronze
+CU0241,Curtis Maynard,velezchristopher@example.net,Bursa,2024-09-24,Gold
+CU0242,Parker Jefferson,,Izmir,2023-11-26,Bronze
+CU0243,Jennifer Monroe,osbornrandy@example.com,Istanbul,2026-07-08,Bronze
+CU0244,Paul Brennan,smithashley@example.org,Izmir,2024-08-21,
+CU0245,Frances Gibson,ismall@example.net,Istanbul,2025-08-30,
+CU0246,Corey Rodriguez,twong@example.org,Istanbul,2024-04-08,
+CU0247,George Phillips,gregorychase@example.com,Antalya,2025-10-05,Gold
+CU0248,Kaylee Miller,tinawoods@example.org,Antalya,2025-09-29,
+CU0249,  James Griffin  ,kevin90@example.com,Ankara,2024-07-28,Bronze
+CU0250,Melissa Brown,erik84@example.net,Bursa,2024-02-20,Gold
+CU0251,Thomas Phillips,susanmendoza@example.com,Antalya,2025-08-02,Bronze
+CU0252,Lisa Perry,,Istanbul,2025-05-24,
+CU0253,Joshua Beck,erinlarson@example.org,Izmir,2024-06-06,
+CU0254,  Kelsey Cox  ,brownamy@example.net,Istanbul,2026-06-20,Silver
+CU0255,Joshua Martin,nwilson@example.net,Izmir,2026-04-15,
+CU0256,Ann Dixon,aanderson@example.com,Istanbul,2026-02-25,
+CU0257,Kristin Chambers,fosterlisa@example.net,Antalya,2024-09-10,Bronze
+CU0258,BENJAMIN HENDERSON,michaelcesar@example.com,Ankara,2025-11-01,Bronze
+CU0259,Jason Mack,ybrooks@example.com,Istanbul,2026-01-10,Bronze
+CU0260,Susan Bennett,,Istanbul,2025-10-14,
+CU0261,Kimberly Valdez,victorialong@example.org,Ankara,2024-10-22,Bronze
+CU0262,Courtney Smith,steven86@example.net,Bursa,2023-11-11,Bronze
+CU0263,David Murray,sharonhardy@example.org,Antalya,2024-03-31,Gold
+CU0264,  Matthew Mendez  ,allencarlos@example.net,Izmir,2026-07-11,Bronze
+CU0265,Kyle Warner,moralesjimmy@example.org,Izmir,2023-12-08,Gold
+CU0266,Patty Taylor,lisadennis@example.com,Bursa,2026-09-10,Silver
+CU0267,Patricia Cardenas,valerieboyd@example.com,Istanbul,2024-06-26,Silver
+CU0268,Antonio Fry,conniesimmons@example.com,Antalya,2026-05-11,Silver
+CU0269,Gregory Schneider,heather62@example.com,Izmir,2024-11-26,Bronze
+CU0270,Paul Wells,meredith27@example.org,Ankara,2026-04-09,Gold
+CU0271,Tracy Grant,jonathanrivera@example.org,Izmir,2024-03-08,
+CU0272,Sarah Davis,brettbennett@example.net,Istanbul,2025-11-27,Silver
+CU0273,Shelly Lopez,,Antalya,2026-01-06,
+CU0274,Kristin Mendoza,kevin03@example.org,Istanbul,2026-04-30,Silver
+CU0275,Autumn Key,heatherpadilla@example.com,Istanbul,2025-03-11,Gold
+CU0276,Kristen Rowe,kyle58@example.com,Istanbul,2024-11-26,
+CU0277,Robert Bowen,robin55@example.com,Antalya,2026-01-06,Bronze
+CU0278,Sean Figueroa,mphillips@example.com,Izmir,2023-11-04,
+CU0279,Kelly Sanchez,jonathan77@example.com,Antalya,2025-05-26,Silver
+CU0280,Robert Jackson,iwhite@example.net,Ankara,2025-11-23,Gold
+CU0281,Kelly Combs,duranrobert@example.net,Bursa,2024-01-05,Bronze
+CU0282,MICHAEL SMITH,bruce97@example.net,Antalya,2025-04-08,
+CU0283,Aaron Arnold Jr.,,Ankara,2025-05-03,Bronze
+CU0284,William Smith,ldrake@example.org,Istanbul,2026-03-02,Silver
+CU0285,Kelly Allen,lisa46@example.org,Izmir,2025-08-08,Bronze
+CU0286,Jared Cunningham,kevinclayton@example.org,Ankara,2026-09-06,Bronze
+CU0287,Shannon Malone,ebennett@example.org,Ankara,2024-01-25,
+CU0288,Michele Miller,ariel18@example.org,Antalya,2026-04-05,Bronze
+CU0289,Steven Schwartz,brandon14@example.net,Izmir,2025-06-12,Gold
+CU0290,Amanda Mcfarland,,Izmir,2024-09-16,Silver
+CU0291,Laurie Goodwin,,Antalya,2025-11-15,Gold
+CU0292,Billy Martin,irhodes@example.com,Istanbul,2024-06-30,Bronze
+CU0293,Patrick Gibbs,masonterri@example.org,Izmir,2025-10-21,
+CU0294,  David Jones  ,unovak@example.org,Izmir,2025-07-23,Bronze
+CU0295,Rachel Hayes,rreynolds@example.net,Antalya,2024-06-16,Bronze
+CU0296,Angelica Montgomery,millereric@example.net,Ankara,2026-02-13,Gold
+CU0297,Brittany Price,smithkyle@example.com,Antalya,2024-11-05,Bronze
+CU0298,Ashley Miller,fgarcia@example.com,Istanbul,2025-01-18,Bronze
+CU0299,LINDA MUELLER,carterpaul@example.org,Bursa,2026-04-24,Gold
+CU0300,Kristin Haney,ginajackson@example.com,Ankara,2024-07-02,Bronze
+CU0301,Johnny Brown,yevans@example.org,Bursa,2025-01-22,
+CU0302,Tony Le,stephentaylor@example.org,Ankara,2025-03-29,Silver
+CU0303,Evelyn Oliver,scott69@example.org,Istanbul,2026-02-20,Gold
+CU0304,LARRY DOMINGUEZ,tamaranovak@example.com,Antalya,2025-03-11,Silver
+CU0305,  Mackenzie Faulkner  ,nicholas65@example.org,Ankara,2026-01-27,Gold
+CU0306,Christina Osborn,bentonsteven@example.net,Izmir,2024-04-26,Bronze
+CU0307,Robert Guerra,ichambers@example.net,Ankara,2023-12-30,Gold
+CU0308,David Moore,mjones@example.com,Antalya,2025-01-10,Silver
+CU0309,Kimberly Mclean,ystephens@example.com,Istanbul,2026-05-01,
+CU0310,Robin Wheeler,mackdiane@example.com,Antalya,2026-06-17,
+CU0311,Lonnie Hart,vrasmussen@example.com,Izmir,2025-09-03,Silver
+CU0312,Brett Walker,seanmyers@example.net,Ankara,2025-12-21,Gold
+CU0313,Kathryn Cooper,phillipssamantha@example.org,Istanbul,2023-11-13,Gold
+CU0314,Todd Thomas,hmueller@example.com,Antalya,2024-09-14,Gold
+CU0315,Brent Bowen,evanslisa@example.org,Istanbul,2025-02-10,Silver
+CU0316,Greg Rodriguez,zacharyarnold@example.com,Bursa,2026-02-16,Gold
+CU0317,Tina Hall,jacobsandoval@example.com,Bursa,2024-12-22,
+CU0318,Lucas Gonzalez,nsmith@example.org,Antalya,2025-07-09,Silver
+CU0319,MICHAEL FLYNN,michaelgonzalez@example.org,Antalya,2025-06-23,Gold
+CU0320,Scott Rose,lcarr@example.org,Ankara,2025-08-28,Gold
+CU0321,Ryan Williamson,samantha91@example.net,Bursa,2026-03-02,
+CU0322,Bruce Torres,williambarnes@example.org,Antalya,2024-04-29,Gold
+CU0323,Jenny Tucker,angelaburns@example.org,Istanbul,2025-05-12,
+CU0324,  Ryan Harvey  ,washingtonjames@example.com,Bursa,2026-04-26,Bronze
+CU0325,KATHY SIMPSON,cmckinney@example.com,Ankara,2025-10-16,Gold
+CU0326,Keith Flynn,hillamanda@example.org,Bursa,2024-06-08,Bronze
+CU0327,Krystal Barton,armstrongjoseph@example.net,Bursa,2025-03-28,Gold
+CU0328,HOLLY CARSON,bpayne@example.org,Antalya,2023-12-01,
+CU0329,Martha Wright,colemichael@example.org,Izmir,2026-05-06,Gold
+CU0330,Xavier Rowe,michelle96@example.org,Izmir,2024-06-26,Silver
+CU0331,Rachel Li,amanda98@example.org,Bursa,2026-02-21,Gold
+CU0332,MICHAEL ROBERTS,taylorkaren@example.com,Izmir,2024-07-28,Gold
+CU0333,  Wendy Camacho  ,johndawson@example.org,Bursa,2024-03-01,
+CU0334,Megan Burns,courtney67@example.org,Bursa,2025-06-23,Gold
+CU0335,Sheryl Davis,heather57@example.com,Izmir,2025-04-19,Silver
+CU0336,Aaron Schroeder,sreid@example.com,Antalya,2025-12-06,Silver
+CU0337,Rebecca Sanders,troymorris@example.com,Istanbul,2026-08-14,Silver
+CU0338,Kenneth Knight,patricia00@example.org,Ankara,2025-03-17,Gold
+CU0339,Sara Smith,scottsmith@example.com,Ankara,2026-07-03,
+CU0340,Michael Anderson,nancymcdowell@example.org,Istanbul,2025-09-09,
+CU0341,Danielle Watson,brettgarrett@example.net,Antalya,2026-06-06,Silver
+CU0342,Cynthia Rios,lewischristian@example.net,Istanbul,2025-11-05,
+CU0343,Michael Smith,mcneilrobert@example.org,Istanbul,2025-10-27,Bronze
+CU0344,Darryl Davis,edwardsnicole@example.org,Antalya,2026-02-22,
+CU0345,  Robert Baxter  ,caseyelliott@example.net,Ankara,2025-08-31,Bronze
+CU0346,Jessica Bowen,samanthajensen@example.com,Izmir,2025-08-16,Silver
+CU0347,Angelica Garcia,bbell@example.com,Izmir,2025-12-27,
+CU0348,  Danielle Newman  ,kimberly04@example.org,Izmir,2024-07-08,
+CU0349,Katrina Adkins,bowerslaura@example.org,Ankara,2024-08-27,Gold
+CU0350,Brian Porter MD,hatfieldsarah@example.org,Izmir,2025-05-02,
+CU0351,Ryan Fisher,kathrynbest@example.org,Ankara,2025-05-21,Silver
+CU0352,  Austin Baker  ,fryraymond@example.com,Ankara,2023-11-29,Silver
+CU0353,Kathryn Perry,davidsonamanda@example.org,Istanbul,2025-11-03,
+CU0354,Eric Dixon,amandamyers@example.net,Izmir,2024-05-21,Gold
+CU0355,Marie Day,pblair@example.org,Ankara,2024-09-12,
+CU0356,Tim Wilson,parkerjudith@example.net,Bursa,2025-07-31,Gold
+CU0357,Adam Taylor,hbenton@example.net,Antalya,2023-10-30,
+CU0358,Michelle Jackson,jessica10@example.com,Izmir,2024-03-01,Gold
+CU0359,Denise Brown,crawfordwilliam@example.org,Antalya,2025-11-14,Gold
+CU0360,Mr. Jacob Scott Jr.,perezwilliam@example.org,Bursa,2025-06-20,Gold
+CU0361,Alexandria Williams,haroldhorne@example.org,Ankara,2024-11-08,
+CU0362,Suzanne Yang,john54@example.org,Istanbul,2025-01-06,Gold
+CU0363,  Barbara Nunez  ,lindajarvis@example.com,Bursa,2023-12-13,
+CU0364,John Campbell,christopher70@example.com,Ankara,2026-04-04,Gold
+CU0365,JUSTIN TORRES,frichardson@example.org,Bursa,2025-08-11,Silver
+CU0366,Kimberly Flynn,ijohnson@example.com,Istanbul,2024-03-26,Bronze
+CU0367,  Melissa Smith  ,usweeney@example.com,Istanbul,2024-10-08,
+CU0368,Joseph Allen,kaufmandouglas@example.com,Ankara,2025-03-25,Gold
+CU0369,Thomas Merritt,stephen19@example.org,Izmir,2025-04-23,
+CU0370,Mandy Foster,grahamtamara@example.org,Ankara,2025-07-09,Silver
+CU0371,Samuel Howe,,Istanbul,2024-12-09,Bronze
+CU0372,  Erika Chavez  ,derekcarrillo@example.org,Istanbul,2024-06-22,Bronze
+CU0373,CHRISTOPHER OWENS,tami37@example.com,Izmir,2024-12-23,Gold
+CU0374,  Samuel Davis  ,margaret90@example.org,Antalya,2026-02-24,
+CU0375,Erin Davis,randy04@example.com,Istanbul,2024-07-08,Gold
+CU0376,Carrie Crane,codygarcia@example.org,Izmir,2026-04-15,
+CU0377,Antonio Norman,madisonwatson@example.net,Bursa,2024-06-10,
+CU0378,Angela Willis,johnsoncaleb@example.net,Bursa,2026-06-21,
+CU0379,Carl Stein,david70@example.org,Antalya,2026-03-19,
+CU0380,Jessica Ramsey,lvega@example.com,Bursa,2025-03-29,Silver
+CU0381,  Cody Ramirez  ,mendezchristina@example.net,Ankara,2026-05-15,Gold
+CU0382,Jason Pierce,patrick63@example.net,Istanbul,2023-12-21,Bronze
+CU0383,Kelly Mccoy,mayokimberly@example.com,Ankara,2026-02-18,Bronze
+CU0384,Richard Cooper,paul20@example.com,Bursa,2025-06-11,Gold
+CU0385,Alyssa Cochran,xmoreno@example.net,Ankara,2024-08-12,
+CU0386,Dr. Ariel Sandoval MD,gallagherstacie@example.net,Izmir,2026-03-05,Bronze
+CU0387,  Rebecca Kelly  ,gregorywatkins@example.net,Istanbul,2026-03-29,Gold
+CU0388,Suzanne Johnson,annalopez@example.com,Antalya,2025-11-02,Bronze
+CU0389,Casey Johnson,andrewwoods@example.com,Ankara,2023-12-16,Gold
+CU0390,Christina Anderson,brian29@example.net,Istanbul,2025-11-19,Silver
+CU0391,Patricia Mathis,brookssheri@example.com,Ankara,2026-04-21,Silver
+CU0392,Gabrielle Morris,fconner@example.net,Izmir,2026-08-22,Bronze
+CU0393,Michael Hoffman,jeffrey92@example.com,Bursa,2026-05-22,
+CU0394,Michael Anderson,xrosales@example.net,Izmir,2025-12-02,Bronze
+CU0395,Lance Mccall,daniellegarcia@example.com,Istanbul,2026-08-13,Silver
+CU0396,PATRICK YOUNG,daisymccarty@example.net,Izmir,2026-08-29,Silver
+CU0397,Monica Rogers,johnjones@example.com,Izmir,2023-10-30,Bronze
+CU0398,Michelle Williams,acosta@example.com,Antalya,2025-01-26,Gold
+CU0399,Heather Bennett,franciscojones@example.org,Antalya,2026-03-18,Gold
+CU0400,Fernando Lynn,pamelamartin@example.org,Antalya,2024-01-05,Gold
+CU0401,Stephanie Davis,bbush@example.net,Ankara,2025-07-11,
+CU0402,Steve Moore,terriortiz@example.net,Istanbul,2024-02-02,
+CU0403,Monica Baker,codylong@example.net,Antalya,2024-08-12,Silver
+CU0404,  Brittany Ward  ,madison97@example.org,Antalya,2025-01-15,Bronze
+CU0405,Daniel Little,,Istanbul,2026-08-23,Silver
+CU0406,  Brian Glover  ,christopher86@example.org,Bursa,2025-03-02,Silver
+CU0407,James Lopez,omarshall@example.com,Ankara,2023-12-04,Gold
+CU0408,Brittany Horton,lindsey69@example.org,Izmir,2024-01-28,
+CU0409,Sara Cardenas,parmstrong@example.com,Istanbul,2025-01-05,Bronze
+CU0410,James Nash,davidtodd@example.org,Ankara,2023-11-23,Gold
+CU0411,CAROL LEWIS,hendersonvanessa@example.com,Bursa,2024-05-10,Bronze
+CU0412,  Rodney Hernandez  ,renee11@example.com,Izmir,2025-07-12,Gold
+CU0413,  Kristen Gates  ,buchanancindy@example.net,Ankara,2025-04-23,Bronze
+CU0414,Ashley Hernandez,buckleyanna@example.org,Bursa,2025-06-12,
+CU0415,Sharon Beard,patrick79@example.net,Istanbul,2026-05-09,
+CU0416,Christopher Powell,vwilliams@example.net,Izmir,2025-08-06,Gold
+CU0417,Patrick Mccall,morganlaura@example.com,Ankara,2026-05-30,Gold
+CU0418,John Horton,dennismccann@example.com,Antalya,2024-01-30,Silver
+CU0419,  Erica Daniel  ,lopezjason@example.com,Antalya,2025-07-23,Gold
+CU0420,  Olivia Camacho  ,cameronmckinney@example.com,Istanbul,2026-03-10,Bronze
+CU0421,SAMUEL SUAREZ,nancygonzalez@example.org,Bursa,2023-11-17,
+CU0422,  Jesus Hull  ,micheal78@example.com,Antalya,2025-11-06,Silver
+CU0423,Becky Johnson,ethompson@example.net,Istanbul,2024-11-17,
+CU0424,Hailey Monroe,mitchellpaul@example.org,Ankara,2024-07-19,Silver
+CU0425,Penny Lewis,ericaadams@example.com,Bursa,2024-06-09,Silver
+CU0426,Sharon Coffey,pbuck@example.org,Bursa,2025-10-13,Silver
+CU0427,ALEJANDRA KING,jennifer46@example.com,Izmir,2026-02-21,
+CU0428,Judy Robinson,asilva@example.net,Istanbul,2024-09-03,Bronze
+CU0429,Dr. Sara Hoffman DDS,olsonmatthew@example.com,Izmir,2024-08-14,
+CU0430,Shannon Green,jacob83@example.org,Istanbul,2025-11-13,Silver
+CU0431,  Rebekah Greene  ,jenniferrios@example.com,Bursa,2025-09-20,Gold
+CU0432,Jason Price,matthewreeves@example.net,Izmir,2023-11-24,Silver
+CU0433,Rachel Knox,megan82@example.com,Izmir,2025-10-02,Bronze
+CU0434,Carl Green,staceylam@example.net,Istanbul,2026-02-24,Gold
+CU0435,Henry Garner,nathan94@example.com,Istanbul,2024-09-09,Silver
+CU0436,Julie Delacruz,kennedyjames@example.org,Bursa,2025-06-30,Bronze
+CU0437,  Jane Evans  ,derrickgonzalez@example.com,Ankara,2023-12-14,Gold
+CU0438,DR. VICTORIA THOMAS,kimberlyfreeman@example.net,Izmir,2026-04-23,
+CU0439,Mrs. Amy Hayes,barbaramoore@example.org,Antalya,2024-05-27,Gold
+CU0440,JEFFREY JORDAN,creyes@example.net,Izmir,2025-01-16,Bronze
+CU0441,Jake Smith,andrewsmith@example.net,Izmir,2024-09-25,
+CU0442,Michael Cooper,tgordon@example.org,Istanbul,2024-03-03,
+CU0443,Angel Fry,ryan25@example.com,Ankara,2025-02-14,Silver
+CU0444,Colin Vaughan,osmith@example.net,Antalya,2026-06-21,
+CU0445,Mrs. Alison Wagner,brooksdanielle@example.net,Antalya,2024-02-26,Silver
+CU0446,LINDA WILLIAMS,williamsdarrell@example.com,Istanbul,2024-02-10,
+CU0447,Joshua Wells,turnerdorothy@example.net,Antalya,2024-03-29,Bronze
+CU0448,Lisa Haynes,huntchristine@example.com,Ankara,2025-01-06,
+CU0449,BRIAN GONZALEZ,marie35@example.net,Antalya,2024-05-17,Gold
+CU0450,Christopher Kelley,arivera@example.org,Antalya,2026-06-13,Bronze
+CU0451,  Susan Conley  ,stacychan@example.org,Izmir,2025-09-29,Gold
+CU0452,Ashley Scott,joseph01@example.org,Antalya,2024-06-20,Gold
+CU0453,Sarah Ward,grodgers@example.org,Izmir,2025-10-07,
+CU0454,Charles Holland,rfriedman@example.net,Ankara,2024-10-02,Gold
+CU0455,Robert White,ynelson@example.net,Istanbul,2024-12-17,
+CU0456,Rebecca Banks,andersonjessica@example.org,Izmir,2026-02-12,Silver
+CU0457,Thomas Webb,ywhite@example.com,Antalya,2025-06-14,Gold
+CU0458,Shari Hobbs,timothyfreeman@example.com,Antalya,2025-11-30,
+CU0459,Arthur Pena,tiffanysantiago@example.com,Ankara,2023-10-31,Silver
+CU0460,Melissa Montgomery,timothyalvarado@example.net,Ankara,2025-01-20,Silver
+CU0461,Ryan Grant,smithsarah@example.net,Istanbul,2026-09-03,Bronze
+CU0462,Sarah Booth,vflores@example.com,Istanbul,2024-01-05,
+CU0463,Daniel Schneider,christianwallace@example.net,Izmir,2024-12-20,
+CU0464,Scott West,bmcgee@example.org,Istanbul,2024-02-21,
+CU0465,Andrew Dunn,pamela83@example.net,Izmir,2026-03-15,Gold
+CU0466,Tiffany Cox,meganrivera@example.net,Ankara,2023-12-14,Bronze
+CU0467,Michelle Cox,malonejeffrey@example.com,Bursa,2025-02-10,Gold
+CU0468,Mark Marsh,jacqueline02@example.com,Antalya,2025-05-23,Silver
+CU0469,Mitchell Griffith,jacobconrad@example.com,Antalya,2024-02-08,
+CU0470,  Roger Lee  ,owilliams@example.net,Izmir,2024-10-11,
+CU0471,Patricia Hayes,tamarasmith@example.net,Bursa,2025-09-18,Gold
+CU0472,Timothy Roberson,heatherthompson@example.org,Antalya,2025-03-15,
+CU0473,Matthew Obrien,mbarnes@example.net,Bursa,2024-09-24,Gold
+CU0474,  Denise Stuart  ,iballard@example.com,Bursa,2026-08-16,Gold
+CU0475,Stacey Hunt,jennifer83@example.org,Antalya,2026-04-02,
+CU0476,Miguel Parks,tinasantos@example.org,Istanbul,2026-06-25,Silver
+CU0477,Melissa Morris,anna99@example.net,Istanbul,2024-02-17,
+CU0478,Megan English,hstokes@example.org,Izmir,2025-05-08,
+CU0479,Charles Santiago,tonyavega@example.org,Ankara,2024-05-17,Silver
+CU0480,Melissa Phillips,howardshaun@example.net,Ankara,2025-12-28,Gold
+CU0481,Nancy Hancock,yyoung@example.net,Bursa,2025-12-16,Bronze
+CU0482,Matthew House,tammy00@example.net,Istanbul,2024-12-03,Bronze
+CU0483,Marc Norman,rhondabush@example.net,Izmir,2026-05-01,Bronze
+CU0484,Kevin Rodgers,kellythompson@example.net,Istanbul,2024-05-14,Bronze
+CU0485,Victor Moss,pattersonangela@example.org,Ankara,2024-02-22,Gold
+CU0486,Ryan Smith,billmcfarland@example.net,Bursa,2025-02-25,Bronze
+CU0487,Timothy Gilbert,jtyler@example.com,Istanbul,2025-09-21,Gold
+CU0488,Michael Fox,hartmanerik@example.net,Antalya,2026-08-02,
+CU0489,Anna Walker,mark43@example.net,Bursa,2024-06-01,Silver
+CU0490,  Yesenia Colon  ,wilsonmichael@example.org,Ankara,2026-08-27,
+CU0491,Lisa Oliver,patrick16@example.com,Antalya,2026-08-04,Bronze
+CU0492,Diane Pruitt,willie87@example.com,Izmir,2026-03-11,
+CU0493,Steven Lee,jacksonstephanie@example.net,Antalya,2025-04-17,Gold
+CU0494,Lori Clark,michellecoleman@example.org,Izmir,2025-08-18,Gold
+CU0495,Ronald Johns,elucas@example.net,Ankara,2025-12-15,Silver
+CU0496,Allison Love,brownlaura@example.net,Izmir,2023-11-27,Silver
+CU0497,ROBERTO BARTLETT,bmccoy@example.com,Ankara,2024-12-25,
+CU0498,Michael Nichols,avilabrenda@example.net,Bursa,2025-08-31,Gold
+CU0499,Heather Shaw,catherine47@example.com,Antalya,2024-08-21,Bronze
+CU0500,Matthew Wells,julierobles@example.net,Antalya,2025-05-08,Bronze
+CU0311,Lonnie Hart,vrasmussen@example.com,Izmir,2025-09-03,Bronze
+CU0259,Jason Mack,ybrooks@example.com,Istanbul,2026-01-10,Bronze
+CU0034,Taylor Smith,jonesjason@example.com,Istanbul,2025-08-09,Bronze
+CU0234,Emily Thompson,amy49@example.com,Bursa,2026-06-15,Bronze
+CU0248,Kaylee Miller,tinawoods@example.org,Antalya,2025-09-29,Bronze
+CU0192,Stacey Stewart,ihays@example.com,Bursa,2024-09-12,Bronze
+CU0190,  Kevin Sherman  ,amy27@example.net,Antalya,2024-03-08,Bronze
+CU0036,Dr. Kendra Contreras,mcmillandennis@example.org,Ankara,2025-05-30,Bronze
+CU0079,Spencer Haynes,blackjames@example.org,Ankara,2024-08-07,Bronze
+CU0294,  David Jones  ,unovak@example.org,Izmir,2025-07-23,Bronze
+CU0347,Angelica Garcia,bbell@example.com,Izmir,2025-12-27,Bronze
+CU0353,Kathryn Perry,davidsonamanda@example.org,Istanbul,2025-11-03,Bronze
+CU0142,  Lauren Joseph  ,,Izmir,2024-11-26,Bronze
+CU0154,LAWRENCE PERRY,reeddaniel@example.net,Istanbul,2024-06-03,Bronze
+CU0050,Mary Martinez,elizabeth56@example.net,Bursa,2026-06-02,Bronze
+CU0407,James Lopez,omarshall@example.com,Ankara,2023-12-04,Bronze
+CU0158,  Blake Edwards  ,amckinney@example.com,Ankara,2025-01-17,Bronze
+CU0310,Robin Wheeler,mackdiane@example.com,Antalya,2026-06-17,Bronze
+CU0400,Fernando Lynn,pamelamartin@example.org,Antalya,2024-01-05,Bronze
+CU0085,Adrian Ferguson,tranheidi@example.org,Izmir,2024-08-05,Bronze
