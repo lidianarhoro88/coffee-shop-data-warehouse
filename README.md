@@ -1,6 +1,6 @@
 # Coffee Shop Data Warehouse Project
 
-A practice data warehousing project built from scratch, following the **Medallion Architecture** (Bronze → Silver → Gold) pattern taught in [Data With Baraa](https://www.youtube.com/@datawithbaraa)'s SQL Data Warehouse course — reimplemented here with an original dataset, domain, and dataset issues, and executed end-to-end on a live PostgreSQL server.
+A practice data warehousing project built from scratch, following the **Medallion Architecture** (Bronze → Silver → Gold) pattern 
 
 ## The story
 
