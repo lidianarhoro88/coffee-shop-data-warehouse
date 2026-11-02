@@ -68,6 +68,3 @@ coffee-shop-data-warehouse/
 
 Built directly on the Gold layer exports: a star schema model (3 dimension tables → 1 fact table), with Total Revenue / Total Units measures, a product revenue bar chart, a customer-tier donut chart, a monthly revenue trend, and a store-city slicer.
 
-## Credit
-
-Built as a hands-on practice project to learn the Medallion Architecture pattern, following the structure taught in [Data With Baraa](https://www.youtube.com/@datawithbaraa)'s course — applied here to an original coffee-shop domain and dataset.
