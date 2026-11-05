@@ -68,3 +68,5 @@ coffee-shop-data-warehouse/
 
 Built directly on the Gold layer exports: a star schema model (3 dimension tables → 1 fact table), with Total Revenue / Total Units measures, a product revenue bar chart, a customer-tier donut chart, a monthly revenue trend, and a store-city slicer.
 
+The report file is in [`powerbi/Coffee_Shop_Sales.pbix`](powerbi/Coffee_Shop_Sales.pbix). Open it with Power BI Desktop.
+
