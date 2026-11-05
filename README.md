@@ -1,5 +1,7 @@
 # Coffee Shop Data Warehouse Project
 
+**[Open the live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNjY0MmJiZDQtNzMwYy00MzJlLWFkYjEtNzhjODhhYTA0Zjc0IiwidCI6IjM4N2Q0NmE2LWU4NWMtNDA4Ni1iYWVjLTY1YmU0NjIwNDczMiIsImMiOjl9)** (interactive, no sign-in needed)
+
 A practice data warehousing project built from scratch, following the **Medallion Architecture** (Bronze → Silver → Gold) pattern 
 
 ## The story
